@@ -1,0 +1,1 @@
+docker repo url: https://hub.docker.com/repository/docker/xpaww/item-app/general
